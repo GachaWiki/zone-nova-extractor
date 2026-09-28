@@ -1,0 +1,4 @@
+# Python dependencies for the Zone Nova extractor tools
+pycryptodome>=3.15
+msgpack>=1.0
+lz4>=4.0

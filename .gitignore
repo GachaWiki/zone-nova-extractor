@@ -1,0 +1,12 @@
+# Scratch/verification files
+verify_*.py
+*.b64
+ref_*.cs
+*_pdb.cs
+pdb.b64
+
+# Outputs
+*.dec.bin
+tables/
+pulled/
+__pycache__/
